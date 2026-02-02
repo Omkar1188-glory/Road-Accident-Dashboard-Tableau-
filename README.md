@@ -79,10 +79,14 @@ To analyze UK road accident data and present meaningful insights through an inte
 
 ---
 
-## 🖼 Dashboard Preview
-![Road Accident Dashboard](path/to/your/screenshot.png)
+## 📸 Dashboard Preview
 
-> *(Replace the image path with your actual screenshot path)*
+![Road Accident Dashboard](Screenshots/Tableau%20Dashboard.png)
+
+## 📊 KPI Snapshot
+
+![Serious Casualties KPI](Screenshots/Serious%20Casualities.png)
+
 
 ---
 
